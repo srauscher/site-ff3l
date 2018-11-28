@@ -21,9 +21,7 @@ haveged \
 iwinfo \
 -gluon-web-mesh-vpn-fastd \
 respondd-module-airtime \
-gluon-ssid-changer \
-gluon-segment-mover \
-gluon-config-mode-segment-mover
+gluon-ssid-changer 
 
 GLUON_REGION ?= eu
 

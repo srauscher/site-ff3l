@@ -16,7 +16,6 @@ GLUON_FEATURES := \
 
 GLUON_SITE_PACKAGES := \
 gluon-config-mode-domain-select \
-gluon-config-mode-geo-location-osm \
 gluon-radv-filterd \
 haveged \
 iwinfo \

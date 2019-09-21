@@ -21,7 +21,10 @@ haveged \
 iwinfo \
 -gluon-web-mesh-vpn-fastd \
 respondd-module-airtime \
-gluon-ssid-changer 
+gluon-ssid-changer \
+addrefkey
+
+GLUON_DEPRECATED ?= upgrade
 
 GLUON_REGION ?= eu
 
